@@ -29,6 +29,12 @@ The app can optionally use your device's biometric authentication (fingerprint/f
 ## Children
 This app is not directed at children under 13.
 
+## Disclaimer of Liability
+
+The app and its developer shall not be held responsible or liable for any loss, damage, corruption, or problem of any kind arising from the use of, or inability to use, this app — including but not limited to loss of data, loss of credentials, device issues, or any other direct, indirect, incidental, or consequential damages.
+
+The app is provided "as is" without warranty of any kind. You use the app entirely at your own risk. It is strongly recommended to use the **Export & Backup** feature regularly to keep a copy of your data.
+
 ## Changes
 If this policy changes, the updated version will be posted at this URL.
 
