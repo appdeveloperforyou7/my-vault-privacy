@@ -1,9 +1,9 @@
-# Privacy Policy — My Vault
+# Privacy Policy — Anchor
 
 _Last updated: March 2026_
 
 ## Overview
-My Vault is a local-first app. Your data stays on your device. We do not operate any servers, do not create user accounts, and do not collect personal information.
+Anchor is a local-first app. Your data stays on your device. We do not operate any servers, do not create user accounts, and do not collect personal information.
 
 ## Data stored on your device
 The app stores the following data **locally and encrypted** on your device only:
